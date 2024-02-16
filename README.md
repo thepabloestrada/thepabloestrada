@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Estrada</h1>
-<h3 align="center">A passionate developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepabloestrada&label=Profile%20views&color=0e75b6&style=flat" alt="thepabloestrada" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
